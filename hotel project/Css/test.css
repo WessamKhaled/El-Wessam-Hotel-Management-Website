@@ -1,0 +1,52 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* *{
+    margin: 0;
+    font-family:sans-serif;
+}
+
+.container{
+    width: 120px;
+    height: 100vh;
+    background-color: crimson;
+    color: white;
+}
+.container p{
+    padding: 7px;
+}
+.container p:hover ,button:hover{
+    background-color: black;
+    cursor: pointer;
+}
+button{
+    background: crimson;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+#close{
+    position: absolute;
+    left: 125px;
+}
+.hide{
+    display: none;
+} */
